@@ -1,0 +1,7 @@
+This project uses a dataset licensed under the Apache License 2.0.
+
+Source: Football Players Data from Kaggle (https://www.kaggle.com/datasets/maso0dahmed/football-players-data/data)
+License: Apache License 2.0
+
+You may obtain a copy of the License at:
+http://www.apache.org/licenses/LICENSE-2.0
